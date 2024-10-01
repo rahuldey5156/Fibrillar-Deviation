@@ -8,5 +8,5 @@ Requirements:
 1. mdtraj Package
 2. numpy                                                                                        
 3. pandas                                                                                          
-4. pdb file
+4. pdb file (The protein should have more than 1 chain)
 5. xtc file                                                                                          
